@@ -1,1 +1,0 @@
-Simple Don't-break-the-chain app written in ruby using the popular GUI front Shoes.
